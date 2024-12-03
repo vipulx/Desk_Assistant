@@ -2,7 +2,8 @@
 #define ABOUT_MENU_H
 
 // Function declarations for the "About" menu
-void setupAboutMenu();
 void displayAboutMenu();
+void setupAboutMenu();
+
 
 #endif // ABOUT_MENU_H
