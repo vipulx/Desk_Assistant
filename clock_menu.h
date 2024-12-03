@@ -2,7 +2,8 @@
 #define CLOCK_MENU_H
 
 // Function declarations or code for the clock menu go here
-void setupClockMenu();
 void displayClock();
+void setupClockMenu();
+
 
 #endif // CLOCK_MENU_H
