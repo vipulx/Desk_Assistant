@@ -8,11 +8,11 @@
 
 // Button definitions
 #define BUTTON_UP 5
+#define BUTTON_DOWN 7
 #define BUTTON_SELECT 6
 
 
 #define RELAY1_PIN 8
-#define BUTTON_DOWN 7
 #define RELAY2_PIN 9
 #define RELAY3_PIN 10
 #define RELAY4_PIN 11
